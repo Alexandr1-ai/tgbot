@@ -5,7 +5,7 @@ import asyncio
 import random
 import string
 
-api_token = '7901672957:AAH9IvywfHx_OFSVnLBaRKwrZXktuvtOF2o'
+api_token = ''
 bot = Bot(token=api_token)
 dp = Dispatcher()
 
